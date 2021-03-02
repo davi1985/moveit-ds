@@ -1,0 +1,10 @@
+.footer {
+  margin: 1rem 1rem;
+  font-size: 0.8rem;
+  padding: 1rem 1rem;
+  text-align: center;
+}
+
+.footer a {
+  color: var(--blue);
+}
